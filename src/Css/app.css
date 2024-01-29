@@ -1,0 +1,10 @@
+.root{
+  font-size: 62.5%;
+  margin: 0px;;
+  padding: 0px;
+  min-height: 100vh;
+}
+
+.app{
+background-color: black;
+}

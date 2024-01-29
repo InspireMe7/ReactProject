@@ -1,0 +1,41 @@
+.root {
+    font-size: 62.5%;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, h3 {
+    margin: 2px;
+    padding: 0px;
+    text-align: center;
+}
+
+.backgroundImage {
+    background-image: url("../assets/wolf-647528_960_720.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.login {
+    text-align: center;
+    width: 35vw;
+    height: 35vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    border: 2px black inset;
+    box-shadow: rgba(255, 255, 255, 0.522) -2px 2px 2px;
+    background-color: rgba(174, 194, 213, 0.904);
+}
+
+footer {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
